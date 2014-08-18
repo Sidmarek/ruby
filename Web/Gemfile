@@ -1,0 +1,6 @@
+# I thought about definition of this learning 
+source "https://rubygems.org"
+
+# No rais, but we are using sinatra FW: www.sinatrarb.com/
+gem 'sinatra'
+gem 'shotgun'
